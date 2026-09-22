@@ -41,6 +41,8 @@ We develop AI agents, CRM automations, API integrations, and custom web applicat
 
 ### 🛠️ What you can work with us for
 
+
+| | |
 |---|---|
 | ✅ AI agents for customer support, sales, and lead qualification | ✅ ServiceNow and Jira integrations |
 | ✅ ServiceNow development, automation, scripting & integrations | ✅ Odoo setup and process automation |
