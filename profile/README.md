@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/325253976?v=4" width="110" alt="Berlin Techs logo" />
-
 # Berlin Tech Sol
 
 ### AI Agents · CRM Automation · Full-Stack Development · DevOps
@@ -43,7 +41,6 @@ We develop AI agents, CRM automations, API integrations, and custom web applicat
 
 ### 🛠️ What you can work with us for
 
-| | |
 |---|---|
 | ✅ AI agents for customer support, sales, and lead qualification | ✅ ServiceNow and Jira integrations |
 | ✅ ServiceNow development, automation, scripting & integrations | ✅ Odoo setup and process automation |
