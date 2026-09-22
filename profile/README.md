@@ -15,14 +15,14 @@ We also handle cloud migration, server administration, and DevOps — moving wor
 
 ## What you can work with us for
 
-- ✔️ AI agents for customer support, sales, and lead qualification
-- ✔️ CRM setup and workflow automation
-- ✔️ ServiceNow and Jira integrations
-- ✔️ ServiceNow development, automation, scripting, and integrations
-- ✔️ Odoo setup and process automation
-- ✔️ API integrations and webhooks
-- ✔️ Custom web applications and SaaS products
-- ✔️ Cloud migration, server administration, and DevOps
+✔️ AI agents for customer support, sales, and lead qualification
+<br>✔️ CRM setup and workflow automation
+<br>✔️ ServiceNow and Jira integrations
+<br>✔️ ServiceNow development, automation, scripting, and integrations
+<br>✔️ Odoo setup and process automation
+<br>✔️ API integrations and webhooks
+<br>✔️ Custom web applications and SaaS products
+<br>✔️ Cloud migration, server administration, and DevOps
 
 ## How we work
 
